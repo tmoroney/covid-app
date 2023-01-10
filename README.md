@@ -1,5 +1,7 @@
 # Covid Tracker App (First Year Programming Project)
-Application that tracks visualises the number of covid cases across the USA by state.
+Application that visualises covid cases across the USA by state.
+
+Download Covid Data Spreadsheet: https://drive.google.com/drive/folders/1h3yaEUrB9esnbdvcGAVMmtQJROWr7M4p?usp=sharing
 
 ## Home Page:
 ![Home Page](screenshot2.png)
@@ -9,5 +11,3 @@ Application that tracks visualises the number of covid cases across the USA by s
 
 ## Analytics Page:
 ![Analytics Page](screenshot.png)
-
-Download Covid Data Spreadsheet: https://drive.google.com/drive/folders/1h3yaEUrB9esnbdvcGAVMmtQJROWr7M4p?usp=sharing
